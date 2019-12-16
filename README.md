@@ -1,3 +1,5 @@
+#SISTEM INFORMASI KESEHATAN E - HEALTH
+
 Sistem INFORMSASI KESEHATAN Menggunakan Framework PHP Codeigniter
 
 Fiturnya apa saja sih?
@@ -27,10 +29,16 @@ Instalasi & Konfigurasi
 Untuk cara instalasi dan konfigurasi caranya sangat mudah
 
 Kalian download atau clone repositori ini
-Copy Paste Filenya di xampp/htdocs/disni
-Aktifkan apache & mysql server pada software XAMPP, bagi yang menggunakan OS Windows selanjutnya akses http://localhost/sikes/ 
-Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
-Untuk login kalian bisa menggunakan username = admin@gmail.com dan password 1234
-Untuk Link Demo nya : http://ehealtsikes.000webhostapp.com/
-Tentang Saya
+
+- Copy Paste Filenya di xampp/htdocs/disni
+
+- Aktifkan apache & mysql server pada software XAMPP, bagi yang menggunakan OS Windows selanjutnya akses http://localhost/sikes/ 
+
+- Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
+
+- Untuk login kalian bisa menggunakan username = admin@gmail.com dan password 1234
+
+- Untuk Link Demo nya : http://ehealtsikes.000webhostapp.com/
+
+- Tentang Saya
 Muhammad Fajar Prawira Mahasiswa Universitas Tanjungpura Kalimantan Barat, Pontianak Fakultas MIPA Jurusan Sistem Informasi. https://www.instagram.com/27_prawira/
