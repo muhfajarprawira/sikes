@@ -3,7 +3,7 @@
 Sistem INFORMSASI KESEHATAN Menggunakan Framework PHP Codeigniter
 
 Fiturnya apa saja sih?
-Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
+Untuk fiturnya masih sangat sederhana, contohnya sebagai berikut
 
 - Data Pegawai
 
