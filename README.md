@@ -32,6 +32,8 @@ Kalian download atau clone repositori ini
 
 - Copy Paste Filenya di xampp/htdocs/disni
 
+- Buat Databse di phpmyadmin dengan nama sikes_db, setelah itu import db dari folder dengan nama sikes_db.sql
+
 - Aktifkan apache & mysql server pada software XAMPP, bagi yang menggunakan OS Windows selanjutnya akses http://localhost/sikes/ 
 
 - Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
