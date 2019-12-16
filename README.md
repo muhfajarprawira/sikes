@@ -40,8 +40,6 @@ Kalian download atau clone repositori ini
 
 - Untuk login kalian bisa menggunakan username = admin@gmail.com dan password 1234
 
-- Untuk Link Demo nya : http://ehealtsikes.000webhostapp.com/
-
 - Tentang Saya
 
 Muhammad Fajar Prawira Mahasiswa Universitas Tanjungpura Kalimantan Barat, Pontianak Fakultas MIPA Jurusan Sistem Informasi. https://www.instagram.com/27_prawira/
