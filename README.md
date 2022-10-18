@@ -1,6 +1,6 @@
 #sikes
 
-Sistem INFORMSASI KESEHATAN Menggunakan Framework PHP Codeigniter versi 3
+Sistem INFORMSASI KESEHATAN ini menggunakan Framework PHP Codeigniter versi 3
 
 Fiturnya apa saja sih?
 
