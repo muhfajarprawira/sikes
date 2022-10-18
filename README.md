@@ -1,9 +1,10 @@
 #sikes
 
-Sistem INFORMSASI KESEHATAN Menggunakan Framework PHP Codeigniter
+Sistem INFORMSASI KESEHATAN Menggunakan Framework PHP Codeigniter versi 3
 
 Fiturnya apa saja sih?
-Untuk fiturnya masih sangat sederhana, contohnya sebagai berikut
+
+Untuk fiturnya masih sangat sederhana, contohnya sebagai berikut:
 
 - Data Pegawai
 
