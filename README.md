@@ -41,6 +41,53 @@ Kalian download atau clone repositori ini
 
 - Untuk login kalian bisa menggunakan username = admin@gmail.com dan password 1234
 
-- Tentang Saya
+Bagi yang error, bisa pakai cara ini :
 
-Muhammad Fajar Prawira Mahasiswa Universitas Tanjungpura Kalimantan Barat, Pontianak Fakultas MIPA Jurusan Sistem Informasi. https://www.instagram.com/27_prawira/
+- buka file config.php pada Code Igniter, letaknya di public_html/application/config. Kemudian search = $config[‘sess_save_path’] = NULL dan ubah nilai NULL tersebut menjadi = sys_get_temp_dir();
+
+Dan untuk yang masih error dengan menggunakan php versi 8 :
+Tambah kan ini
+
+#[\ReturnTypeWillChange]
+
+di semua methods (open, read, write, close, destroy dan gc) di file Session_files_driver.php dan directory dfile nya system/libaries/Session/drivers/Session_files_driver.php
+
+jadi nanti seperti ini :
+
+#[\ReturnTypeWillChange]
+public function open($save_path, $name)
+{
+   ...
+}
+
+#[\ReturnTypeWillChange]
+public function read($session_id)
+{
+  ...
+}
+
+#[\ReturnTypeWillChange]
+public function write($session_id, $session_data)
+{
+  ...
+}
+
+#[\ReturnTypeWillChange]
+public function close()
+{
+  ...
+}
+
+#[\ReturnTypeWillChange]
+public function destroy($session_id)
+{
+  ...
+}
+
+#[\ReturnTypeWillChange]
+public function gc($maxlifetime)
+{
+  ...
+}
+
+restart xampp, done
