@@ -90,4 +90,4 @@ public function gc($maxlifetime)
   ...
 }
 
-restart xampp, done
+restart xampp
