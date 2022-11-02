@@ -53,41 +53,5 @@ Tambah kan ini
 di semua methods (open, read, write, close, destroy dan gc) di file Session_files_driver.php dan directory dfile nya system/libaries/Session/drivers/Session_files_driver.php
 
 jadi nanti seperti ini :
+![open, read, write](https://user-images.githubusercontent.com/37132469/199383259-d707e626-ce24-4a09-b00d-7395fce495e5.png)
 
-#[\ReturnTypeWillChange]
-public function open($save_path, $name)
-{
-   ...
-}
-
-#[\ReturnTypeWillChange]
-public function read($session_id)
-{
-  ...
-}
-
-#[\ReturnTypeWillChange]
-public function write($session_id, $session_data)
-{
-  ...
-}
-
-#[\ReturnTypeWillChange]
-public function close()
-{
-  ...
-}
-
-#[\ReturnTypeWillChange]
-public function destroy($session_id)
-{
-  ...
-}
-
-#[\ReturnTypeWillChange]
-public function gc($maxlifetime)
-{
-  ...
-}
-
-restart xampp
