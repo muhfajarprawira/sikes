@@ -54,4 +54,6 @@ di semua methods (open, read, write, close, destroy dan gc) di file Session_file
 
 jadi nanti seperti ini :
 ![open, read, write](https://user-images.githubusercontent.com/37132469/199383259-d707e626-ce24-4a09-b00d-7395fce495e5.png)
+![dc](https://user-images.githubusercontent.com/37132469/199383587-34d0f776-32bf-45a3-bf48-8663a3a3b998.jpg)
+![close, destroy](https://user-images.githubusercontent.com/37132469/199383605-3986d967-a320-4e05-8d22-3ee3a87744e0.jpg)
 
